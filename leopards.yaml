@@ -3,6 +3,6 @@ team: Leopards
 manager: Nora
 
 members:
-- John
-- Mary
-- Margaret
+    - John
+    - Mary
+    - Margaret
