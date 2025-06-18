@@ -2,8 +2,9 @@ team: Panthers
 
 manager: John
 
-members:
-- Ryan
-- Anna
-- Justin
-- David
+members: 
+    - Ryan
+    - Anna
+    - Justin
+    - David
+    - Freddie
